@@ -1,0 +1,166 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {"nama": "Bumijo, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.36244600000185, -7.783206621937893]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"nama": "Jl. Magelang No.180 Km.2, Karangwaru, Kec. Tegalrejo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55242"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.3612960000014, -7.7725673612411015]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"nama": "Jl. Krasak Timur No.34, Bausasran, Kec. Danurejan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55211"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.37109299999969, -7.778600361640358]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"nama": "Jl. Tunjung No.1, Baciro, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55225"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.37774400000126, -7.788481992153905]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"nama": "Jalan Bausasran DN3 No.819, Bausasran, Kec. Danurejan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55211"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.38058454232748, -7.793850732916582]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"nama": "Jalan Musikanan KT II No.457, Panembahan, Kecamatan Kraton, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55131"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.37529081349078, -7.794448881532986]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"nama": "Jl. DI Panjaitan No.82, Suryodiningratan, Kec. Mantrijeron, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55141"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.3649999999995, -7.806043622284804]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"nama": "Gg. Brojopermono, Wirogunan, Kec. Mergangsan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55151"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.36162127116631, -7.820602509649262]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"nama": "Jl. Sorogenen, Sorosutan, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55162"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.37380899999755, -7.815608993257001]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"nama": "Barepan, Karangtalun, Kec. Imogiri, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55782"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.38343999999626, -7.825366993654697]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"nama": "Mojohuro, Jl. Imogiri - Siluk, Sriharjo, Kec. Imogiri, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55782"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.38128827116549, -7.920185744559859]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"nama": "Jl. Pasopati No.99, Krobokan, Tamanan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55191"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.38373127590154, -7.844678528736921]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"nama": "Jl. Imogiri Tim., Giwangan, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55163"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.39139399999647, -7.832724993954855]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"nama": "Jl. Kemasan No.12, Prenggan, Kec. Kotagede, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55173"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.40048327116614, -7.8221724775015815]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"nama": "Jl. Kaliurang No.10, Gondangan, Sardonoharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55581"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.40275027116729, -7.722099726388507]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"nama": "Jl. Lely III, Perumnas Condong Catur, Condongcatur, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55283"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.40825099999898, -7.756559098847063]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"nama": "Jl. Komp. Colombo No.50a, Mrican, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.38945199999893, -7.778304991739532]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"nama": "Jl. Kaliurang No.KM. 17, RW.5, Gambiran, Pakembinangun, Kec. Pakem, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55582"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.4216596865071, -7.660287853900371]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"nama": "Ngentak, Area Sawah, Sumberagung, Kec. Moyudan, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55563"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.25340427116083, -7.775569470868831]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"nama": "Jalan Jogja Wonosari No.Km.12, Kec. Piyungan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55792"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.45850672883455, -7.831203365115002]
+        }
+      }
+    ]
+  }
+  
